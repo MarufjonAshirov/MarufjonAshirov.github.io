@@ -1,0 +1,16 @@
+p{
+font-family: sans-serif;
+color: #070707;
+font-size: 24pt;
+}
+h1,h2{
+font-family:Times New Roman,sans-serif;
+color:#165D99;
+}
+body{
+	background-color: #8DF2F1;
+}
+img{
+	max-width: 200pt;
+	height: 200pt;
+}
